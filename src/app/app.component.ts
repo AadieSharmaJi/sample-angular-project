@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { getDatabase } from '@angular/fire/database';
+import { initializeApp } from "firebase/app";
 
 @Component({
   selector: 'app-root',

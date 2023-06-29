@@ -1,0 +1,104 @@
+{
+  "users": {
+    "1": {
+      "name": "Aarav Gupta",
+      "age": 20,
+      "score": 85
+    },
+    "2": {
+      "name": "Aditi Patel",
+      "age": 18,
+      "score": 92
+    },
+    "3": {
+      "name": "Arjun Sharma",
+      "age": 22,
+      "score": 78
+    },
+    "4": {
+      "name": "Avni Desai",
+      "age": 17,
+      "score": 90
+    },
+    "5": {
+      "name": "Devika Chauhan",
+      "age": 21,
+      "score": 88
+    },
+    "6": {
+      "name": "Hari Verma",
+      "age": 19,
+      "score": 82
+    },
+    "7": {
+      "name": "Isha Khanna",
+      "age": 16,
+      "score": 89
+    },
+    "8": {
+      "name": "Kabir Reddy",
+      "age": 24,
+      "score": 91
+    },
+    "9": {
+      "name": "Lakshmi Nair",
+      "age": 15,
+      "score": 85
+    },
+    "10": {
+      "name": "Mira Joshi",
+      "age": 23,
+      "score": 86
+    },
+    "11": {
+      "name": "Nikhil Patel",
+      "age": 25,
+      "score": 90
+    },
+    "12": {
+      "name": "Pooja Gupta",
+      "age": 15,
+      "score": 83
+    },
+    "13": {
+      "name": "Rahul Singh",
+      "age": 19,
+      "score": 87
+    },
+    "14": {
+      "name": "Sakshi Shah",
+      "age": 16,
+      "score": 89
+    },
+    "15": {
+      "name": "Tanvi Mehta",
+      "age": 20,
+      "score": 88
+    },
+    "16": {
+      "name": "Vikram Kumar",
+      "age": 17,
+      "score": 84
+    },
+    "17": {
+      "name": "Yashvi Sharma",
+      "age": 22,
+      "score": 92
+    },
+    "18": {
+      "name": "Zara Jain",
+      "age": 21,
+      "score": 87
+    },
+    "19": {
+      "name": "Aarush Mishra",
+      "age": 15,
+      "score": 90
+    },
+    "20": {
+      "name": "Diya Bhatia",
+      "age": 24,
+      "score": 86
+    }
+  }
+}

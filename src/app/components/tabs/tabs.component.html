@@ -1,1 +1,14 @@
-<p>tabs works!</p>
+<mat-tab-group color="warn" backgroundColor="accent">
+  <mat-tab label="Users" 
+    ><div id="data">
+      <app-mat-tables [tabname]=tabnames[0]></app-mat-tables></div
+  ></mat-tab>
+  <mat-tab label="Toppers"
+    ><div id="data">
+      <app-mat-tables [tabname]=tabnames[1]></app-mat-tables></div
+  ></mat-tab>
+  <mat-tab label="Winners"
+    ><div id="data">
+      <app-mat-tables [tabname]=tabnames[2]></app-mat-tables></div
+  ></mat-tab>
+</mat-tab-group>

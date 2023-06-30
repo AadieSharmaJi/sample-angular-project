@@ -1,4 +1,4 @@
-<table mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort matSortActive="created" matSortDirection="desc">
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort matSortActive="created" >
 
     <!--- Note that these columns can be defined in any order.
           The actual rendered columns are set as a property on the row definition" -->
@@ -24,7 +24,7 @@
     <!-- Symbol Column -->
     <ng-container matColumnDef="option">
       <th mat-header-cell *matHeaderCellDef> Options</th>
-      <td mat-cell *matCellDef="let element;let i= index"><button mat-raised-button color="primary" (click)="openDialog(i,element.name,element.age,element.score)">Add to Toppers</button></td>
+      <td mat-cell *matCellDef="let element;let i= index"><button mat-raised-button color="primary" (click)="openDialog(i,element.dbId,element.name,element.age,element.score)">{{buttonVal}}</button></td>
     </ng-container>
   
     <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
